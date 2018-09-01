@@ -7,7 +7,9 @@ Collection of my app's for Not Fancy App Challenge
   - CSS
 
 - **Code preview**
+  - HTML code
+  <img src="/loading-page/html.png" alt="HTML code" width="400px"/>
 
-![HTML code](https://github.com/Nima-Ra/Nima-s-NotFancyAppChallenge/blob/master/loading-page/html.png =400x)
-
-![CSS code](https://github.com/Nima-Ra/Nima-s-NotFancyAppChallenge/blob/master/loading-page/css.png =400x)
+  - CSS code
+  <img src="/loading-page/css.png" alt="CSS code" width="400px"/>
+  
